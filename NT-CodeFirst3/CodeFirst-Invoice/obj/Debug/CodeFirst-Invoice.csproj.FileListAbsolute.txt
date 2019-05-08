@@ -1,0 +1,43 @@
+E:\flaş yedek\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\bin\Debug\CodeFirst-Invoice.exe.config
+E:\flaş yedek\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\bin\Debug\CodeFirst-Invoice.exe
+E:\flaş yedek\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\bin\Debug\CodeFirst-Invoice.pdb
+E:\flaş yedek\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\bin\Debug\EntityFramework.dll
+E:\flaş yedek\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\bin\Debug\EntityFramework.SqlServer.dll
+E:\flaş yedek\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\bin\Debug\EntityFramework.xml
+E:\flaş yedek\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\bin\Debug\EntityFramework.SqlServer.xml
+E:\flaş yedek\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst_Invoice.Form1.resources
+E:\flaş yedek\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst_Invoice.Properties.Resources.resources
+E:\flaş yedek\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst-Invoice.csproj.GenerateResource.cache
+E:\flaş yedek\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst-Invoice.csproj.CoreCompileInputs.cache
+E:\flaş yedek\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst-Invoice.csproj.CopyComplete
+E:\flaş yedek\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst-Invoice.exe
+E:\flaş yedek\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst-Invoice.pdb
+E:\flaş yedek\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst_Invoice.FormCityDefinitions.resources
+E:\flaş yedek\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst_Invoice.FormCountyDefinitions.resources
+E:\flaş yedek\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst_Invoice.FormCustomerDefinitions.resources
+E:\flaş yedek\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst_Invoice.FormProductDefinitions.resources
+E:\flaş yedek\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst_Invoice.FormUnitDefinitions.resources
+E:\flaş yedek\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst-Invoice.csprojAssemblyReference.cache
+E:\flaş yedek\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst_Invoice.Migrations.OriginalDB.resources
+F:\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\bin\Debug\CodeFirst-Invoice.exe.config
+F:\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\bin\Debug\CodeFirst-Invoice.exe
+F:\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\bin\Debug\CodeFirst-Invoice.pdb
+F:\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\bin\Debug\EntityFramework.dll
+F:\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\bin\Debug\EntityFramework.SqlServer.dll
+F:\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\bin\Debug\EntityFramework.xml
+F:\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\bin\Debug\EntityFramework.SqlServer.xml
+F:\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst_Invoice.Form1.resources
+F:\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst_Invoice.FormCityDefinitions.resources
+F:\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst_Invoice.FormCountyDefinitions.resources
+F:\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst_Invoice.FormCustomerDefinitions.resources
+F:\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst_Invoice.FormProductDefinitions.resources
+F:\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst_Invoice.FormUnitDefinitions.resources
+F:\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst_Invoice.Migrations.OriginalDB.resources
+F:\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst_Invoice.Properties.Resources.resources
+F:\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst-Invoice.csproj.GenerateResource.cache
+F:\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst-Invoice.csproj.CoreCompileInputs.cache
+F:\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst-Invoice.csproj.CopyComplete
+F:\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst-Invoice.exe
+F:\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst-Invoice.pdb
+F:\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst_Invoice.FormNewInvoiceTransaction.resources
+F:\Kursta yaptıklarım\10.hafta\NT-CodeFirst3\CodeFirst-Invoice\obj\Debug\CodeFirst-Invoice.csprojAssemblyReference.cache
